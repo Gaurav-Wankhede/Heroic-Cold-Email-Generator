@@ -3,6 +3,9 @@ langchain_community
 langchain_groq
 langchain_core
 python_dotenv
+protobuf
+opentelemetry-api
+opentelemetry-sdk
 chromadb
 pandas
 uuid
